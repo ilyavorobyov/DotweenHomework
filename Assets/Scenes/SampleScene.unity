@@ -420,7 +420,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _material: {fileID: 2100000, guid: 9e8d09fa5c4cbfa49812112d9f158366, type: 2}
-  _startColor: {r: 0.6226415, g: 0.6226415, b: 0.6226415, a: 0}
+  _startColor: {r: 1, g: 1, b: 1, a: 0}
   _targetColor: {r: 0.78039217, g: 0, b: 0, a: 0}
   _duration: 2
 --- !u!135 &421513780
